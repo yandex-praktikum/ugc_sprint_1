@@ -5,7 +5,7 @@
 Распределение по командам подготовит команда сопровождения. 
 
 Задания текущего спринта:
-1. Нарисуйте текущую (as-is) и планируемую (to-be) архитектуру вашего приложения. Оптимальным будет ["Уровень 3. Диаграмма компонентов"](https://c4model.com/#ComponentDiagram) в нотации [C4](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_C4). В качестве инструментов можно использовать [PlantUML](https://plantuml.com/ru/), [DrawIO](https://app.diagrams.net/) или аналогичные сервисы.  
+1. Нарисуйте текущую (as-is) и планируемую (to-be) архитектуру вашего приложения. Оптимальным будет ["Уровень 3. Диаграмма компонентов"](https://c4model.com/#ComponentDiagram) в нотации [C4](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_C4). В качестве инструментов можно использовать [PlantUML](https://plantuml.com/ru/), [Mermaid](https://mermaid.js.org/syntax/sequenceDiagram.html), [DrawIO](https://app.diagrams.net/) или аналогичные сервисы.  
 2. Проведите исследование по выбору аналитического хранилища. В исследовании должны участвовать минимум два колоночных хранилища данных [Vertica](https://en.wikipedia.org/wiki/Vertica) и [ClickHouse](https://ru.wikipedia.org/wiki/ClickHouse).
    
     В результате вашего исследования у вас должны быть:
